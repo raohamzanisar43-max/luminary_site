@@ -1,0 +1,10 @@
+{
+  "name": "luminary-react-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix \"./Luminary-react (6)\" run dev --",
+    "build": "npm --prefix \"./Luminary-react (6)\" run build",
+    "lint": "npm --prefix \"./Luminary-react (6)\" run lint",
+    "preview": "npm --prefix \"./Luminary-react (6)\" run preview"
+  }
+}
