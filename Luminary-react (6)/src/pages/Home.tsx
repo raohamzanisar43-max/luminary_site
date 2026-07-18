@@ -17,7 +17,7 @@ export default function Home() {
         <div className="hero-inner">
           <div className="hero-eyebrow">
             <div className="hero-eyebrow-line"></div>
-            <div className="hero-eyebrow-text">Trusted by Financial Institutions Across Pakistan &amp; Internationally</div>
+            <div className="hero-eyebrow-text">Trusted by Financial Institutions &amp; Internationally</div>
           </div>
           <h1 className="hero-title">Advisory Built<br/>for <em>Regulated</em><br/>Businesses.</h1>
           <p className="hero-sub">We provide specialist compliance, AML/CFT, accounting, IT, governance, and operational support for financial institutions, NBFCs, FinTechs, MSBs, and growth-focused organisations across Pakistan, the GCC, and international markets.</p>
