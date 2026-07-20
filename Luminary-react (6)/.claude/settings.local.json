@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(curl -sf http://localhost:5173)",
-      "Bash(py C:/Users/PTCL/AppData/Local/Temp/claude/c--Users-PTCL-Downloads-Luminary-react--6-/01012b36-06c5-4e83-9f6e-20c4cedb8aee/scratchpad/recolor_ico.py public/favicon.ico)",
-      "Bash(py -c ' *)"
-    ]
-  }
-}

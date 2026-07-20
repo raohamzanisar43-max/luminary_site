@@ -8,7 +8,7 @@ export default function Navbar() {
     <nav className="navbar navbar-expand-lg">
       <div className="container">
         <div className="navbar-inner w-100 d-flex align-items-center">
-          <a className="navbar-brand me-4" href="/" aria-label="LuminaryNexus Consultants"><img src="/images/logo-processed.png" alt="" className="navbar-logo"/></a>
+          <a className="navbar-brand me-4" href="/" aria-label="LuminaryNexus Consultants"><img src="/images/logo-processed.png" alt="" className="navbar-logo" style={{ height: '56px', width: 'auto' }} /></a>
           <button className="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#nvmenu"><span className="navbar-toggler-icon"></span></button>
           <div className="collapse navbar-collapse" id="nvmenu">
             <ul className="navbar-nav mx-auto gap-1">

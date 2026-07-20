@@ -49,7 +49,12 @@ export default function Home() {
       <div className="col-lg-6 hero-img-col">
         <div className="hero-img-frame">
           <div className="hero-img-wrap">
-            <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=900&q=80" alt="LuminaryNexus Consultants — compliance and regulatory consulting professionals" loading="eager"/>
+            <img
+              src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=900&q=80"
+              alt="LuminaryNexus Consultants — compliance and regulatory consulting professionals"
+              loading="eager"
+              style={{ objectFit: 'cover', width: '100%', height: '100%', objectPosition: '50% 50%', display: 'block', borderRadius: 'inherit' }}
+            />
             <div className="hero-img-tint"></div>
           </div>
           <div className="hero-cred">
@@ -74,7 +79,12 @@ export default function Home() {
       <div className="col-lg-5" data-aos="fade-right">
         <div className="about-img-wrap">
           <div className="about-img">
-            <img src="/images/team.jpeg" alt="LuminaryNexus Consultants compliance advisors reviewing regulatory frameworks" loading="lazy"/>
+            <img
+              src="/images/team.jpeg"
+              alt="LuminaryNexus Consultants compliance advisors reviewing regulatory frameworks"
+              loading="lazy"
+              style={{ objectPosition: 'center 25%', width: '100%', height: '360px' }}
+            />
           </div>
           <div className="stat-pill sp1"><div className="sp-num" data-counter data-target="15" data-suffix="+">0</div><div className="sp-lbl">Years Experience</div></div>
           <div className="stat-pill sp2"><div className="sp-num" data-counter data-target="100" data-suffix="+">0</div><div className="sp-lbl">Clients Supported</div></div>

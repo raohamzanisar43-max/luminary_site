@@ -15,17 +15,10 @@ export default function Footer() {
     info@luminarynexusconsultants.net
   </a>
 
-  <a
-    href="tel:+92000000000"
-    className="ft-contact-item"
-  >
-    <i className="bi bi-telephone-fill"></i>
-    +92 (0) 000 000 0000
-  </a>
-
+  
   <span className="ft-contact-item">
     <i className="bi bi-geo-alt-fill"></i>
-    2nd Floor, Eagle Plaza, Blue Area, Islamabad
+     Islamabad, Pakistan
   </span>
 </div>
        <div className="ft-socs">
@@ -48,6 +41,17 @@ export default function Footer() {
   >
     <i className="bi bi-facebook"></i>
   </a>
+  {/* Instagram */}
+<a
+  href="https://www.instagram.com/luminarynexus.consultants?igsh=MTJpZjMydnhzbWZmYQ=="
+  target="_blank"
+  rel="noopener noreferrer"
+  className="fsoc"
+  aria-label="Instagram"
+>
+  <i className="bi bi-instagram"></i>
+</a>
+
 </div>
         <div className="ft-certs">
           <span className="ft-cert-badge">AML/CFT</span>
