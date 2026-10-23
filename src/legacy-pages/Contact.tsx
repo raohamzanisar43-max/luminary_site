@@ -43,7 +43,7 @@ export default function Contact() {
         <div className="wcard text-center">
           <div style={{width: '48px', height: '48px', borderRadius: '50%', background: 'linear-gradient(135deg,var(--brand-dark),var(--brand))', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: 'var(--fh)', fontWeight: '800', color: '#fff', margin: '0 auto 16px', fontSize: '1.1rem', boxShadow: '0 6px 20px rgba(var(--brand-rgb),.3)'}}>2</div>
           <h5 className="ctitle">We Review &amp; Match</h5>
-          <p className="ctext" style={{WebkitLineClamp: 'unset'}}>Our team reviews your requirements and assigns the right specialist — compliance, accounting, IT, or governance — within one business day.</p>
+          <p className="ctext" style={{WebkitLineClamp: 'unset'}}>Our team reviews your requirements and assigns the right specialist — compliance, accounting, IT, or governance — within 24 hours.</p>
         </div>
       </div>
       <div className="col" data-aos="fade-up" data-aos-delay="140">
@@ -72,7 +72,7 @@ export default function Contact() {
       <div className="col-lg-7" data-aos="fade-right">
         <div className="contact-panel">
           <h3 className="mb-1" style={{fontSize: '1.5rem'}}>Tell Us About Your Organisation</h3>
-          <p style={{color: 'var(--tx3)', fontSize: '.86rem', marginBottom: '28px'}}>We respond within one business day. For urgent matters, please call us directly.</p>
+          <p style={{color: 'var(--tx3)', fontSize: '.86rem', marginBottom: '28px'}}>We respond within 24 hours. For urgent matters, please call us directly.</p>
           <form id="contact-form">
             <div className="row g-3">
               <div className="col-md-6">
@@ -137,7 +137,7 @@ export default function Contact() {
               </div>
               <div className="col-12">
                 <button type="submit" className="btn-grad w-100 justify-content-center" style={{padding: '15px', fontSize: '.97rem'}}>
-                  <i className="bi bi-send-fill"></i>Send Message — We Respond Within 1 Business Day
+                  <i className="bi bi-send-fill"></i>Send Message — We Respond Within 24 Hours
                 </button>
               </div>
               <div className="col-12 text-center">

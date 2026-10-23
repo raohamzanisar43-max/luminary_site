@@ -537,7 +537,7 @@ export default function Home() {
       <div className="col-lg-4" data-aos="fade-right">
         <div className="label">FAQ</div>
         <h2 className="stitle">Common <span className="gtxt">Questions</span></h2>
-        <p className="ssub">Have a question not answered here? <a href="/contact" style={{color: 'var(--gold)'}}>Send us a message</a> — we respond within one business day.</p>
+        <p className="ssub">Have a question not answered here? <a href="/contact" style={{color: 'var(--gold)'}}>Send us a message</a> — we respond within 24 hours.</p>
       </div>
       <div className="col-lg-8" data-aos="fade-left">
         <div className="fitem"><div className="fq"><span className="fq-text">Who does LuminaryNexus Consultants work with?</span><div className="ftog"><i className="bi bi-plus"></i></div></div><div className="fans"><div className="fans-in">We work with financial institutions, NBFCs, FinTech companies, Money Service Businesses, banks, microfinance banks, digital lending platforms, startups, and corporate groups — any regulated or growth-focused organisation that needs reliable advisory support.</div></div></div>
