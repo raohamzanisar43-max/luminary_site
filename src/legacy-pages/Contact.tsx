@@ -137,7 +137,7 @@ export default function Contact() {
               </div>
               <div className="col-12">
                 <button type="submit" className="btn-grad w-100 justify-content-center" style={{padding: '15px', fontSize: '.97rem'}}>
-                  <i className="bi bi-send-fill"></i>Send Message — We Respond Within 24 Hours
+                  <i className="bi bi-send-fill"></i>We Are Available 24/7
                 </button>
               </div>
               <div className="col-12 text-center">
